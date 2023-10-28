@@ -2,15 +2,15 @@
 
 > demo of build version ckeditor5 with umi 3
 
-ckeditor有两种引入模式，第一种是build之后的，第二种是源码方式。
+ckeditor有两种引入模式，第一种是build之后的，第二种是源码方式。本库是第一种方式。
 
 ## Corresponding demos 相关示例
 
-| Description                                                    | Repository                                                              | Live URL                                        |
-|----------------------------------------------------------------|-------------------------------------------------------------------------|-------------------------------------------------|
-| **umi3 + ckeditor5 with build version integration** (this one) | [**Jeff-Tian/umi-ckeditor**](https://github.com/Jeff-Tian/umi-ckeditor) | **https://umi-ckeditor-tam5.vercel.app/editor** |
-| umi3 + ckeditor5 with source integration                       | [Jeff-Tian/umi-ckeditor5](https://github.com/Jeff-Tian/umi-ckeditor5)   | https://umi-ckeditor5.brickverse.dev/           |
-| umi4 + ckeditor5 with source integration                       | [JeffTrain/umi-ckeditor5](https://github.com/JeffTrain/umi-ckeditor5)   | https://umijs-ckeditor5.brickverse.dev/home     |
+| Description                                                    | Repository                                                                | Live URL                                        |
+|----------------------------------------------------------------|---------------------------------------------------------------------------|-------------------------------------------------|
+| **umi3 + ckeditor5 with build version integration** (this one) | [**Jeff-Tian/umi-ckeditor**](https://github.com/Jeff-Tian/umi-ckeditor)   | **https://umi-ckeditor-tam5.vercel.app/editor** |
+| umi3 + ckeditor5 with source integration                       | [Jeff-Tian/umi-ckeditor5](https://github.com/Jeff-Tian/umi-ckeditor5)     | https://umi-ckeditor5.brickverse.dev/           |
+| umi4 + ckeditor5 with source integration                       | [JeffTrain/umijs-ckeditor5](https://github.com/JeffTrain/umijs-ckeditor5) | https://umijs-ckeditor5.brickverse.dev/home     |
 
 ## 相关文章
 
